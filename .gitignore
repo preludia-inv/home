@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.prerender/
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+.tools/
+.e2e-dist-*/
+.e2e-ssr-*/
+*.local

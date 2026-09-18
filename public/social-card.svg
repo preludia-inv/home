@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f8f7f2"/>
+  <circle cx="1010" cy="315" r="260" fill="#eaeddf"/>
+  <circle cx="1010" cy="315" r="218" fill="none" stroke="#bcc6a9"/>
+  <path d="m1008 175 24 114 116 26-116 25-24 116-25-116-116-25 116-26z" fill="#778062"/>
+  <text x="88" y="123" font-family="Georgia,serif" font-size="60" letter-spacing="-3" fill="#283e33">Preludia.</text>
+  <text x="88" y="248" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#53674b">INVITACIONES WEB PERSONALIZADAS</text>
+  <g font-family="Georgia,serif" font-size="69" letter-spacing="-2">
+    <text x="83" y="348" fill="#283e33">Todo gran momento</text>
+    <text x="83" y="435" fill="#778062" font-style="italic">tiene un comienzo.</text>
+  </g>
+  <path d="M88 502h45" stroke="#8c997b"/>
+  <text x="88" y="550" font-family="Arial,sans-serif" font-size="18" fill="#64745d">Tu historia. Tu estilo. Tu invitación.</text>
+</svg>
